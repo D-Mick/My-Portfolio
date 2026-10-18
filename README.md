@@ -19,3 +19,11 @@ Open [http://localhost:3000](http://localhost:3000).
 npm run lint
 npm run build
 ```
+
+## Live site
+
+Pushes to `main` publish a static export with GitHub Pages:
+
+https://d-mick.github.io/My-Portfolio/
+
+In the repository, open **Settings → Pages** and set **Source** to **GitHub Actions**. The repository needs to be public for the free Pages plan.
